@@ -1,0 +1,15 @@
+C:\Users\Johnny\source\repos\Week3IfAndSwitch\IfDayOftheWeek\bin\Debug\net6.0\IfDayOftheWeek.exe
+C:\Users\Johnny\source\repos\Week3IfAndSwitch\IfDayOftheWeek\bin\Debug\net6.0\IfDayOftheWeek.deps.json
+C:\Users\Johnny\source\repos\Week3IfAndSwitch\IfDayOftheWeek\bin\Debug\net6.0\IfDayOftheWeek.runtimeconfig.json
+C:\Users\Johnny\source\repos\Week3IfAndSwitch\IfDayOftheWeek\bin\Debug\net6.0\IfDayOftheWeek.dll
+C:\Users\Johnny\source\repos\Week3IfAndSwitch\IfDayOftheWeek\bin\Debug\net6.0\IfDayOftheWeek.pdb
+C:\Users\Johnny\source\repos\Week3IfAndSwitch\IfDayOftheWeek\obj\Debug\net6.0\IfDayOftheWeek.csproj.AssemblyReference.cache
+C:\Users\Johnny\source\repos\Week3IfAndSwitch\IfDayOftheWeek\obj\Debug\net6.0\IfDayOftheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\source\repos\Week3IfAndSwitch\IfDayOftheWeek\obj\Debug\net6.0\IfDayOftheWeek.AssemblyInfoInputs.cache
+C:\Users\Johnny\source\repos\Week3IfAndSwitch\IfDayOftheWeek\obj\Debug\net6.0\IfDayOftheWeek.AssemblyInfo.cs
+C:\Users\Johnny\source\repos\Week3IfAndSwitch\IfDayOftheWeek\obj\Debug\net6.0\IfDayOftheWeek.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\source\repos\Week3IfAndSwitch\IfDayOftheWeek\obj\Debug\net6.0\IfDayOftheWeek.dll
+C:\Users\Johnny\source\repos\Week3IfAndSwitch\IfDayOftheWeek\obj\Debug\net6.0\refint\IfDayOftheWeek.dll
+C:\Users\Johnny\source\repos\Week3IfAndSwitch\IfDayOftheWeek\obj\Debug\net6.0\IfDayOftheWeek.pdb
+C:\Users\Johnny\source\repos\Week3IfAndSwitch\IfDayOftheWeek\obj\Debug\net6.0\IfDayOftheWeek.genruntimeconfig.cache
+C:\Users\Johnny\source\repos\Week3IfAndSwitch\IfDayOftheWeek\obj\Debug\net6.0\ref\IfDayOftheWeek.dll
